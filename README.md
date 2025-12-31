@@ -22,8 +22,7 @@ class AkshayKumar:
     def __init__(self):
         self.role = "Software Engineer"
         self.education = "B.Tech CSE @ Amity University (CGPA: 8.84)"
-        self.location = "Ranchi, Jharkhand, India"
-        self.specialization = ["Generative AI", "LLMs", "Deep Learning"]
+        self.specialization = ["Generative AI", "LLMs", "Deep Learning", "Spring Boot", "MicroServices"]
         
     def experience(self):
         return {
@@ -37,11 +36,11 @@ class AkshayKumar:
             "ai_ml": ["LangGraph", "LangChain", "LangSmith", "YOLO", "Deep Learning"],
             "backend": ["Spring Boot", "FastAPI", "JPA", "Hibernate"],
             "databases": ["PostgreSQL", "MySQL", "MongoDB", "Pinecone", "Chroma", "FAISS"],
-            "cloud_devops": ["AWS S3", "Docker", "CI/CD", "GitHub Actions"]
+            "cloud_devops": ["AWS", "Docker", "CI/CD", "GitHub Actions"]
         }
     
     def achievements(self):
-        return ["IBM National Hackathon Finalist", "SIH 2024 Internal Winner"]
+        return ["IBM National Hackathon Finalist", "SIH 2024 Regional Winner"]
 ```
 
 ---
