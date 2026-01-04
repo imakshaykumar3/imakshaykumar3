@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykumar0034)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshaykumar_07)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykumar0034)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imakshaykumar07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar10001000@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLM+Specialist;Building+Scalable+AI+Solutions;Ex-TATA+Steel+%7C+IBM+Finalist;LangGraph+%7C+LangChain+%7C+Deep+Learning;Spring+Boot+%7C+Microservices" alt="Typing SVG" />
 
@@ -218,7 +217,7 @@ mindmap
 **I'm always open to discussing new projects, creative ideas, or opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykumar0034)
-[![Email](https://img.shields.io/badge/Email-imakshaykumar07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imakshaykumar07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-akshaykumar10001000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar10001000@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-akshaykumar__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshaykumar_07)
 
 **💼 Open to Full-Time Opportunities | 🎯 Seeking roles in AI/ML Engineering**
