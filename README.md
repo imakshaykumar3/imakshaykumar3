@@ -4,8 +4,8 @@
 
 ### Software Engineer | Generative AI • LLMs • Deep Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykumar0034)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshaykumar_07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imakshaykumar3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imakshaykumar3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar10001000@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLM+Specialist;Building+Scalable+AI+Solutions;Ex-TATA+Steel+%7C+IBM+Finalist;LangGraph+%7C+LangChain+%7C+Deep+Learning;Spring+Boot+%7C+Microservices" alt="Typing SVG" />
@@ -96,8 +96,8 @@ class AkshayKumar:
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🤖 **FinSight AI** | AI-powered financial analysis chatbot with real-time stock insights, sentiment scoring & interactive charts | LangGraph, LangChain, Gemini, Streamlit, SQLite | [GitHub](https://github.com/akshaykumar0034/FinSightAI) |
-| 📊 **Investify** | High-performance trading platform with real-time portfolio valuation, P/L analytics & fund management | Spring Boot, React, PostgreSQL | [GitHub](https://github.com/akshaykumar0034/Investify) |
+| 🤖 **FinSight AI** | AI-powered financial analysis chatbot with real-time stock insights, sentiment scoring & interactive charts | LangGraph, LangChain, Gemini, Streamlit, SQLite | [GitHub](https://github.com/imakshaykumar3/FinSightAI) |
+| 📊 **Investify** | High-performance trading platform with real-time portfolio valuation, P/L analytics & fund management | Spring Boot, React, PostgreSQL | [GitHub](https://github.com/imakshaykumar3/Investify) |
 | 🚗 **IVRS System** | Intelligent Vehicle Recognition System using YOLOv8 & PaddleOCR (95%+ accuracy) | Python, YOLO, PaddleOCR, PostgreSQL | TATA Steel |
 | 🌐 **EdTech Platform** | Responsive EdTech frontend with 20% engagement boost | React, Tailwind CSS | Surusha Tech |
 
@@ -108,16 +108,16 @@ class AkshayKumar:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaykumar0034&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar0034&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imakshaykumar3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakshaykumar3&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar0034&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=imakshaykumar3&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=akshaykumar0034&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=imakshaykumar3&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -196,7 +196,7 @@ mindmap
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar0034&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imakshaykumar3&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -216,9 +216,9 @@ mindmap
 
 **I'm always open to discussing new projects, creative ideas, or opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykumar0034)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imakshaykumar3)
 [![Email](https://img.shields.io/badge/Email-akshaykumar10001000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar10001000@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-akshaykumar__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshaykumar_07)
+[![LeetCode](https://img.shields.io/badge/imakshaykumar3-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imakshaykumar3)
 
 **💼 Open to Full-Time Opportunities | 🎯 Seeking roles in AI/ML Engineering**
 
@@ -234,7 +234,7 @@ mindmap
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/akshaykumar0034/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/imakshaykumar3/count.svg)
 
 ---
 
