@@ -108,17 +108,26 @@ class AkshayKumar:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imakshaykumar3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakshaykumar3&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=imakshaykumar3&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakshaykumar3&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=imakshaykumar3&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=imakshaykumar3&theme=tokyonight&hide_border=true"
+    width="90%"
+    alt="GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=imakshaykumar3&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
