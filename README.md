@@ -187,7 +187,7 @@ mindmap
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/akshaykumar_07?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/akshaykumar_07/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/imakshaykumar3?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/imakshaykumar3/)
 
 </div>
 
@@ -218,7 +218,7 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imakshaykumar3)
 [![Email](https://img.shields.io/badge/Email-akshaykumar10001000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumar10001000@gmail.com)
-[![LeetCode](https://img.shields.io/badge/imakshaykumar3-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imakshaykumar3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-imakshaykumar3-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imakshaykumar3/)
 
 **💼 Open to Full-Time Opportunities | 🎯 Seeking roles in AI/ML Engineering**
 
